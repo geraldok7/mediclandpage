@@ -1,5 +1,4 @@
 <h1 align="center">Doctor Care</h1>
-<p align="center">Aplicação no formato de landing page, responsiva, desenvolvida durante a NLW Return da @Rocketseat.</p> <br />
 
 ### ☁️ Deploy:
 O <a href="https://lucasdam.github.io/doctor-care">Doctor Care</a> está hospedado no GitHub Pages.
