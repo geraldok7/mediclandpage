@@ -18,7 +18,7 @@
 
 ##### Passo 1. Clone este repositório pelo seu terminal:
 ```
-$ git clone https://github.com/lucasdam/doctor-care.git
+$ git clone https://github.com/geraldok7/mediclandpage.git
 ```
 ##### Passo 2. Acesse a pasta do projeto:
 ```
